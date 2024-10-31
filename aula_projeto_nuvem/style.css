@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+}
+
+h1 {
+    background-color: black;
+}
+.intro {
+    background: url('https://placehold.co/1200x400') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+
+}
+.intro h1 {
+    font-size: 3rem;
+}
+.bg-primary {
+    background-color: aquamarine !important; 
+}
+
+.carousel-inner {
+    background-image: url('https://placehold.co/600x400');
+
+}
